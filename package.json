@@ -1,0 +1,18 @@
+{
+  "name": "blog-spot-functions",
+  "version": "1.0.0",
+  "description": "api requests for fetch and search",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon index.js"
+  },
+  "author": "kpkm",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "lodash": "^4.17.21",
+    "node-fetch": "^3.3.2",
+    "node-fetch-cjs": "^3.3.2",
+    "nodemon": "^3.0.1"
+  }
+}
